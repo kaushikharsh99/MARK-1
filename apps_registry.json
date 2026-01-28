@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Video Player",
+    "exec": "showtime --new-window",
+    "icon": "org.gnome.Showtime",
+    "path": "/usr/share/applications/org.gnome.Showtime.desktop"
+  },
+  {
+    "name": "Maltego Java Config",
+    "exec": "/usr/bin/maltego_java_config",
+    "icon": "maltego",
+    "path": "/usr/share/applications/maltego_java_config.desktop"
+  },
+  {
+    "name": "Calendar",
+    "exec": "gnome-calendar",
+    "icon": "org.gnome.Calendar",
+    "path": "/usr/share/applications/org.gnome.Calendar.desktop"
+  },
+  {
+    "name": "Logs",
+    "exec": "gnome-logs",
+    "icon": "org.gnome.Logs",
+    "path": "/usr/share/applications/org.gnome.Logs.desktop"
+  },
+  {
+    "name": "Disk Usage Analyzer",
+    "exec": "baobab",
+    "icon": "org.gnome.baobab",
+    "path": "/usr/share/applications/org.gnome.baobab.desktop"
+  },
+  {
+    "name": "Ulauncher",
+    "exec": "env GDK_BACKEND=x11 /usr/bin/ulauncher --hide-window",
+    "icon": "ulauncher",
+    "path": "/usr/share/applications/ulauncher.desktop"
+  },
+  {
+    "name": "XTerm",
+    "exec": "xterm",
+    "icon": "xterm-color",
+    "path": "/usr/share/applications/xterm.desktop"
+  },
+  {
+    "name": "Nsight Systems",
+    "exec": "/usr/local/cuda-12.4/nsight-systems-2023.4.4/host-linux-x64/nsight-sys",
+    "icon": "/usr/local/cuda-12.4/nsight-systems-2023.4.4/host-linux-x64/nsight-sys.png",
+    "path": "/usr/share/applications/nsight-systems.desktop"
+  },
+  {
+    "name": "Ettercap",
+    "exec": "ettercap -G",
+    "icon": "/usr/share/ettercap/ettercap-small.png",
+    "path": "/usr/share/applications/ettercap.desktop"
+  },
+  {
+    "name": "Software",
+    "exec": "gnome-software",
+    "icon": "org.gnome.Software",
+    "path": "/usr/share/applications/org.gnome.Software.desktop"
+  },
+  {
+    "name": "NVIDIA X Server Settings",
+    "exec": "nvidia-settings",
+    "icon": "nvidia-settings",
+    "path": "/usr/share/applications/nvidia-settings.desktop"
+  },
+  {
+    "name": "Steam",
+    "exec": "/usr/bin/steam",
+    "icon": "steam",
+    "path": "/usr/share/applications/steam.desktop"
+  },
+  {
+    "name": "Characters",
+    "exec": "/usr/bin/gnome-characters",
+    "icon": "org.gnome.Characters",
+    "path": "/usr/share/applications/org.gnome.Characters.desktop"
+  },
+  {
+    "name": "Files",
+    "exec": "nautilus --new-window",
+    "icon": "org.gnome.Nautilus",
+    "path": "/usr/share/applications/org.gnome.Nautilus.desktop"
+  },
+  {
+    "name": "Antigravity",
+    "exec": "/usr/share/antigravity/antigravity",
+    "icon": "antigravity",
+    "path": "/usr/share/applications/antigravity.desktop"
+  },
+  {
+    "name": "Disks",
+    "exec": "gnome-disks",
+    "icon": "org.gnome.DiskUtility",
+    "path": "/usr/share/applications/org.gnome.DiskUtility.desktop"
+  },
+  {
+    "name": "Docker Desktop",
+    "exec": "/opt/docker-desktop/bin/docker-desktop",
+    "icon": "/opt/docker-desktop/share/icon.original.png",
+    "path": "/usr/share/applications/docker-desktop.desktop"
+  },
+  {
+    "name": "LibreOffice Writer",
+    "exec": "libreoffice --writer",
+    "icon": "document-new",
+    "path": "/usr/share/applications/libreoffice-writer.desktop"
+  },
+  {
+    "name": "System Monitor",
+    "exec": "gnome-system-monitor",
+    "icon": "org.gnome.SystemMonitor",
+    "path": "/usr/share/applications/org.gnome.SystemMonitor.desktop"
+  },
+  {
+    "name": "Camera",
+    "exec": "snapshot",
+    "icon": "org.gnome.Snapshot",
+    "path": "/usr/share/applications/org.gnome.Snapshot.desktop"
+  },
+  {
+    "name": "NVIDIA Visual Profiler",
+    "exec": "/usr/local/cuda-12.4/bin/nvvp",
+    "icon": "/usr/local/cuda-12.4/libnvvp/icon.xpm",
+    "path": "/usr/share/applications/nvvp.desktop"
+  },
+  {
+    "name": "Fonts",
+    "exec": "gnome-font-viewer",
+    "icon": "org.gnome.font-viewer",
+    "path": "/usr/share/applications/org.gnome.font-viewer.desktop"
+  },
+  {
+    "name": "Videos",
+    "exec": "totem",
+    "icon": "org.gnome.Totem",
+    "path": "/usr/share/applications/org.gnome.Totem.desktop"
+  },
+  {
+    "name": "Maps",
+    "exec": "gapplication launch org.gnome.Maps",
+    "icon": "org.gnome.Maps",
+    "path": "/usr/share/applications/org.gnome.Maps.desktop"
+  },
+  {
+    "name": "PyCharm Community Edition",
+    "exec": "pycharm-community",
+    "icon": "pycharm-community",
+    "path": "/usr/share/applications/pycharm-community.desktop"
+  },
+  {
+    "name": "Document Viewer",
+    "exec": "papers",
+    "icon": "org.gnome.Papers",
+    "path": "/usr/share/applications/org.gnome.Papers.desktop"
+  },
+  {
+    "name": "Timeshift",
+    "exec": "timeshift-launcher",
+    "icon": "timeshift",
+    "path": "/usr/share/applications/timeshift-gtk.desktop"
+  },
+  {
+    "name": "GNU Image Manipulation Program",
+    "exec": "gimp-3.0",
+    "icon": "gimp",
+    "path": "/usr/share/applications/gimp.desktop"
+  },
+  {
+    "name": "OpenJDK 21 for x86_64 Monitoring & Management Console (21.0.9.0.10-1.fc43.x86_64)",
+    "exec": "/usr/lib/jvm/java-21-openjdk/bin/jconsole",
+    "icon": "java-21-openjdk",
+    "path": "/usr/share/applications/java-21-openjdk-jconsole.desktop"
+  },
+  {
+    "name": "Connections",
+    "exec": "gnome-connections",
+    "icon": "org.gnome.Connections",
+    "path": "/usr/share/applications/org.gnome.Connections.desktop"
+  },
+  {
+    "name": "Image Viewer",
+    "exec": "loupe",
+    "icon": "org.gnome.Loupe",
+    "path": "/usr/share/applications/org.gnome.Loupe.desktop"
+  },
+  {
+    "name": "Helvum",
+    "exec": "helvum",
+    "icon": "org.pipewire.Helvum",
+    "path": "/usr/share/applications/org.pipewire.Helvum.desktop"
+  },
+  {
+    "name": "Htop",
+    "exec": "htop",
+    "icon": "htop",
+    "path": "/usr/share/applications/htop.desktop"
+  },
+  {
+    "name": "Kdenlive",
+    "exec": "kdenlive",
+    "icon": "kdenlive",
+    "path": "/usr/share/applications/org.kde.kdenlive.desktop"
+  },
+  {
+    "name": "Rygel Preferences",
+    "exec": "rygel-preferences",
+    "icon": "rygel",
+    "path": "/usr/share/applications/rygel-preferences.desktop"
+  },
+  {
+    "name": "Maltego",
+    "exec": "/usr/bin/maltego",
+    "icon": "maltego",
+    "path": "/usr/share/applications/maltego.desktop"
+  },
+  {
+    "name": "Color Profile Viewer",
+    "exec": "gcm-viewer",
+    "icon": "gnome-color-manager",
+    "path": "/usr/share/applications/org.gnome.ColorProfileViewer.desktop"
+  },
+  {
+    "name": "Inkscape",
+    "exec": "inkscape",
+    "icon": "org.inkscape.Inkscape",
+    "path": "/usr/share/applications/org.inkscape.Inkscape.desktop"
+  },
+  {
+    "name": "Audio Player",
+    "exec": "org.gnome.Decibels",
+    "icon": "org.gnome.Decibels",
+    "path": "/usr/share/applications/org.gnome.Decibels.desktop"
+  },
+  {
+    "name": "Text Editor",
+    "exec": "gnome-text-editor",
+    "icon": "org.gnome.TextEditor",
+    "path": "/usr/share/applications/org.gnome.TextEditor.desktop"
+  },
+  {
+    "name": "Settings",
+    "exec": "gnome-control-center",
+    "icon": "org.gnome.Settings",
+    "path": "/usr/share/applications/org.gnome.Settings.desktop"
+  },
+  {
+    "name": "Extensions",
+    "exec": "/usr/bin/gnome-extensions-app",
+    "icon": "org.gnome.Extensions",
+    "path": "/usr/share/applications/org.gnome.Extensions.desktop"
+  },
+  {
+    "name": "Tor Browser",
+    "exec": "torbrowser-launcher",
+    "icon": "org.torproject.torbrowser-launcher",
+    "path": "/usr/share/applications/org.torproject.torbrowser-launcher.desktop"
+  },
+  {
+    "name": "Firefox",
+    "exec": "firefox",
+    "icon": "firefox",
+    "path": "/usr/share/applications/org.mozilla.firefox.desktop"
+  },
+  {
+    "name": "Weather",
+    "exec": "gapplication launch org.gnome.Weather",
+    "icon": "org.gnome.Weather",
+    "path": "/usr/share/applications/org.gnome.Weather.desktop"
+  },
+  {
+    "name": "Nsight Compute",
+    "exec": "/usr/local/cuda-12.4/nsight-compute-2024.1.1/host/linux-desktop-glibc_2_11_3-x64/ncu-ui",
+    "icon": "/usr/local/cuda-12.4/nsight-compute-2024.1.1/host/linux-desktop-glibc_2_11_3-x64/ncu-ui.png",
+    "path": "/usr/share/applications/nsight-compute.desktop"
+  },
+  {
+    "name": "Neovim",
+    "exec": "nvim",
+    "icon": "nvim",
+    "path": "/usr/share/applications/nvim.desktop"
+  },
+  {
+    "name": "GNOME System Monitor",
+    "exec": "gnome-system-monitor",
+    "icon": "org.gnome.SystemMonitor",
+    "path": "/usr/share/applications/gnome-system-monitor-kde.desktop"
+  },
+  {
+    "name": "Parental Controls",
+    "exec": "malcontent-control",
+    "icon": "org.freedesktop.MalcontentControl",
+    "path": "/usr/share/applications/org.freedesktop.MalcontentControl.desktop"
+  },
+  {
+    "name": "Contacts",
+    "exec": "gnome-contacts",
+    "icon": "org.gnome.Contacts",
+    "path": "/usr/share/applications/org.gnome.Contacts.desktop"
+  },
+  {
+    "name": "Terminal",
+    "exec": "ptyxis",
+    "icon": "org.gnome.Ptyxis",
+    "path": "/usr/share/applications/org.gnome.Ptyxis.desktop"
+  },
+  {
+    "name": "Xtreme Download Manager",
+    "exec": "env GTK_USE_PORTAL=1 /opt/xdman/xdm-app",
+    "icon": "/opt/xdman/xdm-logo.svg",
+    "path": "/usr/share/applications/xdm-app.desktop"
+  },
+  {
+    "name": "Rhythmbox",
+    "exec": "rhythmbox",
+    "icon": "org.gnome.Rhythmbox3",
+    "path": "/usr/share/applications/org.gnome.Rhythmbox3.desktop"
+  },
+  {
+    "name": "Volume Control",
+    "exec": "pavucontrol",
+    "icon": "multimedia-volume-control",
+    "path": "/usr/share/applications/org.pulseaudio.pavucontrol.desktop"
+  },
+  {
+    "name": "Help",
+    "exec": "yelp",
+    "icon": "org.gnome.Yelp",
+    "path": "/usr/share/applications/org.gnome.Yelp.desktop"
+  },
+  {
+    "name": "Nsight Eclipse Edition",
+    "exec": "/usr/local/cuda-12.4/bin/nsight",
+    "icon": "/usr/local/cuda-12.4/libnsight/icon.xpm",
+    "path": "/usr/share/applications/nsight.desktop"
+  },
+  {
+    "name": "Tweaks",
+    "exec": "gnome-tweaks",
+    "icon": "org.gnome.tweaks",
+    "path": "/usr/share/applications/org.gnome.tweaks.desktop"
+  },
+  {
+    "name": "Document Scanner",
+    "exec": "simple-scan",
+    "icon": "org.gnome.SimpleScan",
+    "path": "/usr/share/applications/org.gnome.SimpleScan.desktop"
+  },
+  {
+    "name": "Piper",
+    "exec": "piper",
+    "icon": "org.freedesktop.Piper",
+    "path": "/usr/share/applications/org.freedesktop.Piper.desktop"
+  },
+  {
+    "name": "Fedora Media Writer",
+    "exec": "mediawriter",
+    "icon": "org.fedoraproject.MediaWriter",
+    "path": "/usr/share/applications/org.fedoraproject.MediaWriter.desktop"
+  },
+  {
+    "name": "Problem Reporting",
+    "exec": "gnome-abrt",
+    "icon": "org.freedesktop.GnomeAbrt",
+    "path": "/usr/share/applications/org.freedesktop.GnomeAbrt.desktop"
+  },
+  {
+    "name": "nvtop",
+    "exec": "nvtop",
+    "icon": "nvtop",
+    "path": "/usr/share/applications/nvtop.desktop"
+  },
+  {
+    "name": "Tor Browser Launcher Settings",
+    "exec": "torbrowser-launcher --settings",
+    "icon": "org.torproject.torbrowser-launcher",
+    "path": "/usr/share/applications/org.torproject.torbrowser-launcher.settings.desktop"
+  },
+  {
+    "name": "btop++",
+    "exec": "btop",
+    "icon": "btop",
+    "path": "/usr/share/applications/btop.desktop"
+  },
+  {
+    "name": "Boxes",
+    "exec": "gnome-boxes",
+    "icon": "org.gnome.Boxes",
+    "path": "/usr/share/applications/org.gnome.Boxes.desktop"
+  },
+  {
+    "name": "Calculator",
+    "exec": "gnome-calculator",
+    "icon": "org.gnome.Calculator",
+    "path": "/usr/share/applications/org.gnome.Calculator.desktop"
+  },
+  {
+    "name": "Clocks",
+    "exec": "gnome-clocks",
+    "icon": "org.gnome.clocks",
+    "path": "/usr/share/applications/org.gnome.clocks.desktop"
+  },
+  {
+    "name": "LibreOffice",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=libreoffice --file-forwarding org.libreoffice.LibreOffice @@u",
+    "icon": "org.libreoffice.LibreOffice.startcenter",
+    "path": "/var/lib/flatpak/exports/share/applications/org.libreoffice.LibreOffice.desktop"
+  },
+  {
+    "name": "LibreOffice Base",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=libreoffice --file-forwarding org.libreoffice.LibreOffice --base @@u",
+    "icon": "document-new",
+    "path": "/var/lib/flatpak/exports/share/applications/org.libreoffice.LibreOffice.base.desktop"
+  },
+  {
+    "name": "VLC media player",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=/app/bin/vlc --file-forwarding org.videolan.vlc --started-from-file @@u",
+    "icon": "org.videolan.vlc",
+    "path": "/var/lib/flatpak/exports/share/applications/org.videolan.vlc.desktop"
+  },
+  {
+    "name": "ONLYOFFICE",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=desktopeditors --file-forwarding org.onlyoffice.desktopeditors @@u",
+    "icon": "org.onlyoffice.desktopeditors",
+    "path": "/var/lib/flatpak/exports/share/applications/org.onlyoffice.desktopeditors.desktop"
+  },
+  {
+    "name": "Zen Browser",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=launch-script.sh --file-forwarding app.zen_browser.zen @@u",
+    "icon": "app.zen_browser.zen",
+    "path": "/var/lib/flatpak/exports/share/applications/app.zen_browser.zen.desktop"
+  },
+  {
+    "name": "LibreOffice Impress",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=libreoffice --file-forwarding org.libreoffice.LibreOffice --impress @@u",
+    "icon": "document-new",
+    "path": "/var/lib/flatpak/exports/share/applications/org.libreoffice.LibreOffice.impress.desktop"
+  },
+  {
+    "name": "Extension Manager",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=extension-manager --file-forwarding com.mattjakeman.ExtensionManager @@u",
+    "icon": "com.mattjakeman.ExtensionManager",
+    "path": "/var/lib/flatpak/exports/share/applications/com.mattjakeman.ExtensionManager.desktop"
+  },
+  {
+    "name": "Discord",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=com.discordapp.Discord --file-forwarding com.discordapp.Discord @@u",
+    "icon": "com.discordapp.Discord",
+    "path": "/var/lib/flatpak/exports/share/applications/com.discordapp.Discord.desktop"
+  },
+  {
+    "name": "Motrix",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-motrix --file-forwarding net.agalwood.Motrix @@u",
+    "icon": "net.agalwood.Motrix",
+    "path": "/var/lib/flatpak/exports/share/applications/net.agalwood.Motrix.desktop"
+  },
+  {
+    "name": "Flatseal",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=com.github.tchx84.Flatseal com.github.tchx84.Flatseal",
+    "icon": "com.github.tchx84.Flatseal",
+    "path": "/var/lib/flatpak/exports/share/applications/com.github.tchx84.Flatseal.desktop"
+  },
+  {
+    "name": "LibreOffice Math",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=libreoffice --file-forwarding org.libreoffice.LibreOffice --math @@u",
+    "icon": "document-new",
+    "path": "/var/lib/flatpak/exports/share/applications/org.libreoffice.LibreOffice.math.desktop"
+  },
+  {
+    "name": "WezTerm",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=wezterm org.wezfurlong.wezterm start --cwd .",
+    "icon": "org.wezfurlong.wezterm",
+    "path": "/var/lib/flatpak/exports/share/applications/org.wezfurlong.wezterm.desktop"
+  },
+  {
+    "name": "Youp for Whatsapp",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=youp com.gigitux.youp",
+    "icon": "com.gigitux.youp",
+    "path": "/var/lib/flatpak/exports/share/applications/com.gigitux.youp.desktop"
+  },
+  {
+    "name": "Spotify",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=spotify --file-forwarding com.spotify.Client @@u",
+    "icon": "com.spotify.Client",
+    "path": "/var/lib/flatpak/exports/share/applications/com.spotify.Client.desktop"
+  },
+  {
+    "name": "Google Chrome",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=/app/bin/chrome --file-forwarding com.google.Chrome @@u",
+    "icon": "com.google.Chrome",
+    "path": "/var/lib/flatpak/exports/share/applications/com.google.Chrome.desktop"
+  },
+  {
+    "name": "Proton VPN",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=protonvpn-app --file-forwarding com.protonvpn.www @@u",
+    "icon": "com.protonvpn.www",
+    "path": "/var/lib/flatpak/exports/share/applications/com.protonvpn.www.desktop"
+  },
+  {
+    "name": "LibreOffice Draw",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=libreoffice --file-forwarding org.libreoffice.LibreOffice --draw @@u",
+    "icon": "document-new",
+    "path": "/var/lib/flatpak/exports/share/applications/org.libreoffice.LibreOffice.draw.desktop"
+  },
+  {
+    "name": "Telegram",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=Telegram --file-forwarding org.telegram.desktop -- @@u",
+    "icon": "application-exit",
+    "path": "/var/lib/flatpak/exports/share/applications/org.telegram.desktop.desktop"
+  },
+  {
+    "name": "LibreOffice Calc",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=libreoffice --file-forwarding org.libreoffice.LibreOffice --calc @@u",
+    "icon": "document-new",
+    "path": "/var/lib/flatpak/exports/share/applications/org.libreoffice.LibreOffice.calc.desktop"
+  },
+  {
+    "name": "Visual Studio Code",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@",
+    "icon": "com.visualstudio.code",
+    "path": "/var/lib/flatpak/exports/share/applications/com.visualstudio.code.desktop"
+  },
+  {
+    "name": "qBittorrent",
+    "exec": "/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=qbittorrent --file-forwarding org.qbittorrent.qBittorrent @@u",
+    "icon": "org.qbittorrent.qBittorrent",
+    "path": "/var/lib/flatpak/exports/share/applications/org.qbittorrent.qBittorrent.desktop"
+  }
+]
